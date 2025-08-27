@@ -1,5 +1,6 @@
 
 
+"use client";
 import React, { useState } from "react";
 
 function TodoListSection({ title }: { title: string }) {
